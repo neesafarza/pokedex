@@ -1,0 +1,4 @@
+# pokedex
+angular exercise 
+
+# pokedex
